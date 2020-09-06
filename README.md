@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogukan Aydogdu</h1>
-<h3 align="center">software engineer @useinsider, tech stack; whatever it takes but loves</h3>
+<h3 align="center">software engineer @useinsider</h3>
+<h3 align="center"> tech stack; whatever it takes but loves @golang </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanayd" alt="dogukanayd" /> </p>
 
